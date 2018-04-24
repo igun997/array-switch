@@ -1,5 +1,5 @@
 <?php
-function switch($froms,$tos){
+function switch($a,$froms,$tos){
       $f = $froms;
       $t = $tos;
       $from = $a[$f];
